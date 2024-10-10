@@ -2036,13 +2036,7 @@ Error: ClientError(TooManyRequests)
 
 TUNNELS
 wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728534409685 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728534412751 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728534494957 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2050,7 +2044,7 @@ wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728534427850 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728534510060 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2058,7 +2052,12 @@ wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728534443138 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728534525165 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534528236 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2066,12 +2065,7 @@ wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728534458229 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728534461292 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728534543358 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2079,7 +2073,12 @@ wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728534476430 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728534558463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534561744 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -2087,8 +2086,436 @@ wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728534491537 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728534576842 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534591959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534595019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534610143 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534625258 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534628328 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534645414 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534660568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534675700 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534679446 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534688541 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534691610 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534694672 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534709763 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534712843 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534728866 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534731930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534747025 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534762124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534777253 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534780323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534795426 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534798496 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534813615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534828715 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534831784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534846904 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534849978 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534867128 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534882255 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534897372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534912502 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534915569 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534930717 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534945820 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534960922 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728534964013 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534979124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728534994221 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535009333 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535012403 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535027503 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535030590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535045706 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535060823 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535063887 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535078992 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535082057 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535097155 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535113732 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535128840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535131904 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535046301 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535061445 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535064524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535079644 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535084568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535093655 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535096747 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535111851 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728535114917 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728535130022 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+wine-barriers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
